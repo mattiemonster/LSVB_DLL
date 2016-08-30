@@ -1,4 +1,4 @@
-﻿Public Class MessagesDebug
+﻿Public Class Msg
 
     Public Shared Function testMsg()
         MsgBox("Test!", MsgBoxStyle.Information, "Testing!")
