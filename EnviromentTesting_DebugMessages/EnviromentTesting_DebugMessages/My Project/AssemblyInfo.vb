@@ -9,10 +9,10 @@ Imports System.Runtime.InteropServices
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("EnviromentTesting_DebugMessages")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyDescription("Testing enviroment for debug messages vb library")>
+<Assembly: AssemblyCompany("LS")>
 <Assembly: AssemblyProduct("EnviromentTesting_DebugMessages")>
-<Assembly: AssemblyCopyright("Copyright ©  2016")>
+<Assembly: AssemblyCopyright("LS")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
